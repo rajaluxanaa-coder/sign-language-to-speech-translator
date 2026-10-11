@@ -1,0 +1,14 @@
+opencv-pythonopencv-python
+mediapipe==0.10.9
+tensorflow==2.15.1
+numpy
+pyttsx3
+scikit-learn
+matplotlib
+mediapipe==0.10.9
+tensorflow==2.15.1
+numpy
+pyttsx3
+scikit-learn
+matplotlib
+git commit -m "Initial commit - Real-Time Sign Language to Speech Translator"
